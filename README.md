@@ -15,8 +15,7 @@ This project analyzes Amazon sales data using Microsoft Excel to uncover key bus
 - Sales peak during April–June indicating seasonal demand
 
 ## Dashboard
-![Dashboard](Screenshot 2026-03-21 035612.png)
-
+![Dashboard](Screenshot%202026-03-21%20035612.png)
 
 ## Skills Demonstrated
 - Data Cleaning
